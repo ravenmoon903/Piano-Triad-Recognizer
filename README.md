@@ -81,6 +81,10 @@ The dataset is organized into:
 
 Each class has its own folder (for example, `d_maj`, `c_maj`, etc.).
 
+## Troubleshooting
+
+It may have a high confidence that the chord is D major. If that is the case, use a different image.
+
 ## Acknowledgements
 
 This project was created using NVIDIA's Jetson Inference image classification workflow with a custom piano triad dataset for a class.
