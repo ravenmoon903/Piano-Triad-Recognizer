@@ -85,6 +85,10 @@ Each class has its own folder (for example, `d_maj`, `c_maj`, etc.).
 
 It may have a high confidence that the chord is D major. If that is the case, use a different image.
 
+## Demo Video
+
+https://youtube.com/shorts/cn7C1k4EvqM?feature=share
+
 ## Acknowledgements
 
 This project was created using NVIDIA's Jetson Inference image classification workflow with a custom piano triad dataset for a class.
