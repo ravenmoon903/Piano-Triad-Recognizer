@@ -18,8 +18,6 @@ You'll also need:
 * NVIDIA Jetson device
 * Python 3
 * Jetson Inference
-* A trained `resnet18.onnx` model
-* `labels.txt`
 
 ## Project Structure
 
